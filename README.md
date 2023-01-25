@@ -1,5 +1,6 @@
 # golimiter
-[![Godoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://pkg.go.dev/github.com/mrwaggel/golimiter)
+[![Go Reference](https://pkg.go.dev/static/frontend/badge/badge.svg)](https://pkg.go.dev/github.com/mrwaggel/golimiter)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mrwaggel/golimiter)](https://goreportcard.com/report/github.com/mrwaggel/golimiter)
 
 This packages provides a key based limiter. [Read more here.](https://mrwaggel.be/page/golimiter)
 
